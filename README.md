@@ -14,5 +14,5 @@ The code has two main classes:
 - [trialAnalysis](https://github.com/jameshermus/crankTurning-dynamicPrimitives/blob/main/trialAnalysis.m): This class imports and processes each trial
 - [crossTrialAnalysis](https://github.com/jameshermus/crankTurning-dynamicPrimitives/blob/main/crossTrialAnalysis.m): This class combines information from multiple trials and conditions. This class also contains the statisticall analysis and plotting funtions. 
 
-Lastly, there is [lnCoordinatesExampleFig](https://github.com/jameshermus/crankTurning-dynamicPrimitives/blob/main/lnCoordinatesExampleFig.m): This class generates the conceptual Figure 9 for the paper.
+Lastly, there is [lnCoordinatesExampleFig](https://github.com/jameshermus/crankTurning-dynamicPrimitives/blob/main/lnCoordinatesExampleFig.m): This function generates the conceptual Figure 9 for the paper.
 
