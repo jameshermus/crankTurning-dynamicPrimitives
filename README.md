@@ -16,3 +16,4 @@ lnCoordinatesExampleFig: This class generates Figure 9 from the paper
 main: This script generates the figures presented in the paper. Processing all trials, condistions, and stiffness levels takes some time. For this reason, first a check is preformed to determine if the analysis.mat data structure already exists. If so it will load it. If not it will generate the analysis.mat.
 
 
+[GitHub Pages](https://pages.github.com/)
