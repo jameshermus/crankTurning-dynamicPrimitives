@@ -5,7 +5,7 @@ This repository contains the code use in the writting of the paper:
 James Hermus, Joeseph Doeringer, Dagmar Sternad, and Neville Hogan, "Dynamic Primitives in Constrained Action: Systematic Changes in the Zero-Force Trajectory" Currently submitted to the Joural of Neurophysiology. 
 
 ## Code Organization and Data
-The experimenal data file is quite large and not stored on github. Download the "crank_data" folder (avalible here) and place it in the crankTurning-dynamicPrimitives folder.
+The experimenal data file is quite large and not stored on github. Download the [crank_data](https://www.dropbox.com/scl/fo/tiybowr0f0vkru7o85gij/h?dl=0&rlkey=udwtmb0zrnlm8atrk1w6sc2uc) folder and place it in the crankTurning-dynamicPrimitives folder.
 
 The code is organized into three sections:
 
