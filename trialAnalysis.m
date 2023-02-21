@@ -60,6 +60,7 @@ classdef trialAnalysis < handle
         
         % Dependent Measures
         q_0   % ZFT postion in joint space [Nx2] (rad)
+        q_0_dot
         X_0   % carteasion ZFT (m)
         Vt_0
         thcp_0
@@ -167,7 +168,7 @@ classdef trialAnalysis < handle
         function [] = get_subjectData(this)
             
             [param, grpordr] = this.getparam();
-            jdex = find(this.speed == grpordr);
+            jdex = find(this.speed ==  );
             
             % Select trial number skipping catch trials
             % Form Joe's code the blind matrix defines which trials did not
