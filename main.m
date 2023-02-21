@@ -16,6 +16,11 @@ subjDex = 1:10; % number of subjects
 speedDex = 1:6; % speed and direction number
 trialDex = 1:21; % trial number
 
+%% Check crank_data is downloaded
+if(7~=exist('crank_data', 'dir'))
+    error('The crank_data folder is missing. Make sure to download crank_data folder from dropbox and add it to your local repository. Information is provided in the README.md.');
+end
+
 %% Load already created analysis structures
 tic
 filee = ['analysis.mat'];
