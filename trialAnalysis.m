@@ -168,7 +168,7 @@ classdef trialAnalysis < handle
         function [] = get_subjectData(this)
             
             [param, grpordr] = this.getparam();
-            jdex = find(this.speed ==  );
+            jdex = find(this.speed == grpordr);
             
             % Select trial number skipping catch trials
             % Form Joe's code the blind matrix defines which trials did not
