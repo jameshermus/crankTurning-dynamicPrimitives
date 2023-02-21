@@ -8,6 +8,7 @@ James Hermus, Joeseph Doeringer, Dagmar Sternad, and Neville Hogan, "Dynamic Pri
 The experimenal data file is quite large and not stored on github. Download the "crank_data" folder (avalible here) and place it in the crankTurning-dynamicPrimitives folder.
 
 The code is organized into three sections:
+
 [trialAnalysis](): This class imports and processes each trial
 [crossTrialAnalysis](): This class combines information from multiple trials and conditions. This class also contains the statisticall analysis and plotting funtions. 
 [lnCoordinatesExampleFig](): This class generates Figure 9 from the paper
