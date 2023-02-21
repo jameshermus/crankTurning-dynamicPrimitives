@@ -1,6 +1,6 @@
 # crankTurning-dynamicPrimatives
 
-# Publication
+This repository contains the code use in the writting of the paper: 
 
 James Hermus, Joeseph Doeringer, Dagmar Sternad, and Neville Hogan, "Dynamic Primitives in Constrained Action: Systematic Changes in the Zero-Force Trajectory" Currently submitted to the Joural of Neurophysiology. 
 
