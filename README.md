@@ -1,10 +1,10 @@
 # crankTurning-dynamicPrimatives
 
-Publication
+# Publication
 
 James Hermus, Joeseph Doeringer, Dagmar Sternad, and Neville Hogan, "Dynamic Primitives in Constrained Action: Systematic Changes in the Zero-Force Trajectory" Currently submitted to the Joural of Neurophysiology. 
 
-Code Organization
+# Code Organization
 
 The code is organized into three sections:
 
