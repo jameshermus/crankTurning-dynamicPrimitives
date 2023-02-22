@@ -527,7 +527,7 @@ classdef crossTrialAnalysis < handle
 %             xlabel('Speed (rev/s)','fontsize',18);
 %             legend('CW','CCW','Location','North'); 
             
-            % Take out major outliers (CHECK THIS -- removed slow before did that mess things up?)
+            % Take out major outliers
 %             [cv_v] = this.remove_outliers(cv_v);
 %             [cv_v0] = this.remove_outliers(cv_v0);
             % Remove outlier function can not be used with binning approach
