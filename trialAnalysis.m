@@ -10,7 +10,7 @@ classdef trialAnalysis < handle
         
         % Subject Spesific Parameters
         subject % subject number in study
-        trial % Trial Number (Feedback only) % ADD FIX THIS
+        trial % Trial Number (Feedback only)
         speed % Speed and direction are incorporated , according to speedNames
         names % subject idenifier
         speedNames % Name of speed + direction conditions
