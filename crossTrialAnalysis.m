@@ -332,7 +332,7 @@ classdef crossTrialAnalysis < handle
                 end
             end
             
-            % Take out major outliers (CHECK THIS -- removed slow before did that mess things up?)
+            % Take out major outliers
             [lnr0] = this.remove_outliers(lnr0);
             [lnr45] = this.remove_outliers(lnr45);
             
